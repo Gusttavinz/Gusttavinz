@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, Me chamo Gustavo Luiz 
 
-<!--
-**Gusttavinz/Gusttavinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
 
-Here are some ideas to get you started:
+💻 Atualmente, estou desenvolvendo meus conhecimentos em programação, lógica computacional e desenvolvimento de software, com foco em C e C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de tecnologia e estou construindo minha trajetória na área de TI. Tenho interesse em desenvolvimento de software, programação e sistemas, buscando evoluir por meio da graduação, cursos e projetos práticos.
+
+Atualmente, estou fortalecendo minha base em lógica de programação e desenvolvimento utilizando C e C++, além de explorar novas tecnologias conforme avanço na minha formação.
+
+## Tecnologias e conhecimentos
+
+* C
+* C++
+* Lógica de Programação
+* Algoritmos
+* Git
+* GitHub
+
+## Atualmente estou estudando
+
+* Desenvolvimento de Software
+* Programação
+* Lógica e algoritmos
+* Fundamentos de sistemas e tecnologia
+
+## Projetos
+
+🔹 Contador de Tempo de Jogo em C++
+Projeto desenvolvido para praticar lógica de programação, estruturas condicionais, entrada e saída de dados e operações matemáticas.
+
+📫 LinkedIn: [Gustavo Luiz](www.linkedin.com/in/gusttavinz)
