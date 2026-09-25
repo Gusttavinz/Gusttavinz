@@ -1,34 +1,36 @@
-# Olá, Me chamo Gustavo Luiz 
+# 👋 Olá, eu sou o Gustavo Luiz
 
-🎓 Sou Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi.
 
-💻 Atualmente, estou desenvolvendo meus conhecimentos em programação, lógica computacional e desenvolvimento de software, com foco em C e C++.
+💻 Construindo minha trajetória em **Desenvolvimento de Software com foco em Backend**, explorando a criação de APIs, arquitetura de sistemas e a integração entre código, infraestrutura e banco de dados.
 
-## Sobre mim
 
-Sou estudante de tecnologia e estou construindo minha trajetória na área de TI. Tenho interesse em desenvolvimento de software, programação e sistemas, buscando evoluir por meio da graduação, cursos e projetos práticos.
+### 👨‍💻 Sobre mim
 
-Atualmente, estou fortalecendo minha base em lógica de programação e desenvolvimento utilizando C e C++, além de explorar novas tecnologias conforme avanço na minha formação.
+Sou entusiasta do ecossistema de tecnologia e busco compreender não apenas como escrever código, mas como sistemas se comunicam, são testados e implantados em diferentes ambientes.
 
-## Tecnologias e conhecimentos
+- 🛠️ **Foco atual:** Fundamentos sólidos em C, C++, Python, bancos de dados relacionais e comunicação Web (HTTP/APIs REST).
+- 🎯 **Objetivo:** Desenvolver soluções backend robustas, aplicando boas práticas de versionamento, qualidade de código (QA) e preparando o terreno para práticas de Cloud e DevOps.
+- 🚀 **Prática:** Transformar teoria em projetos práticos, documentando toda a evolução aqui no GitHub.
 
-* C
-* C++
-* Lógica de Programação
-* Algoritmos
-* Git
-* GitHub
 
-## Atualmente estou estudando
+### 🛠️ Tecnologias e Ferramentas
 
-* Desenvolvimento de Software
-* Programação
-* Lógica e algoritmos
-* Fundamentos de sistemas e tecnologia
+**Linguagens & Backend**
+- C | C++ | Python | FastAPI
+- Comunicação: HTTP/HTTPS, APIs REST
 
-## Projetos
+**Banco de Dados & Dados**
+- SQL | PostgreSQL / MySQL (Fundamentos) | Modelagem Relacional
 
-🔹 Contador de Tempo de Jogo em C++
-Projeto desenvolvido para praticar lógica de programação, estruturas condicionais, entrada e saída de dados e operações matemáticas.
+**Ferramentas & Infraestrutura (Em evolução)**
+- Git | GitHub | VS Code | Linux | Docker
 
-📫 LinkedIn: [Gustavo Luiz](www.linkedin.com/in/gusttavinz)
+
+### 📫 Onde me encontrar
+
+- 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](www.linkedin.com/in/gusttavinz)
+- 💻 **GitHub:** [@Gusttavinz](https://github.com/Gusttavinz)
+
+
+> *Construindo conhecimento, escrevendo código e transformando aprendizado em soluções reais.*
